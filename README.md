@@ -1,15 +1,20 @@
-# Najat Judeh Portfolio
+# Najat Judeh Portfolio — Version 2
 
-A responsive portfolio website built with plain HTML, CSS, and JavaScript so it can run immediately in StackBlitz without installing anything.
+A responsive editorial portfolio for Najat Judeh, positioned as a **Business Systems Engineer & Product Builder**.
 
-## Open in StackBlitz
+## Run
 
-1. Create a new **Static** project in StackBlitz.
-2. Upload or paste `index.html`, `styles.css`, and `script.js`.
-3. In `index.html`, replace the temporary email and add your real links before publishing.
+```bash
+npm install
+npm start
+```
 
-## Customize
+## Before publishing
 
-- Main text and projects: `index.html`
-- Colors and design: variables at the top of `styles.css`
-- Menu, animations, and email button: `script.js`
+Replace `your-email@example.com` in `index.html` with the correct contact email.
+
+## Stack
+
+- Semantic HTML
+- Responsive CSS
+- Vanilla JavaScript
