@@ -5,8 +5,8 @@
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vite --host 0.0.0.0",
-    "start": "vite --host 0.0.0.0"
+    "dev": "http-server . -p 8080 -c-1",
+    "start": "http-server . -p 8080 -c-1"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/templora3-hub/najat-portfolio#readme",
   "devDependencies": {
-    "vite": "^8.3.0"
+    "http-server": "^14.1.1"
   }
 }
