@@ -1,0 +1,26 @@
+{
+  "name": "najat-portfolio-site",
+  "version": "1.0.0",
+  "description": "A responsive portfolio website built with plain HTML, CSS, and JavaScript so it can run immediately in StackBlitz without installing anything.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --host 0.0.0.0",
+    "start": "vite --host 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/templora3-hub/najat-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/templora3-hub/najat-portfolio/issues"
+  },
+  "homepage": "https://github.com/templora3-hub/najat-portfolio#readme",
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}
